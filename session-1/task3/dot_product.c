@@ -22,6 +22,7 @@
     Store your answer in d
     print your final answer
     */
+   
 
     // explicit deallocation of heap memory before exit */
     free(a);

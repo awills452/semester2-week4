@@ -15,5 +15,11 @@
     Store your answer in d
     print your final answer
     */
+
+    float result = dot_product(a,b);
+    print(result);
+
+
+
     return 0;
  }
