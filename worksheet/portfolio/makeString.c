@@ -9,7 +9,7 @@ Student ID:201961071
 
 int main( int argc, char **argv ) {
     // defining buffer
-    char buffer[50] = "";  // Enough space for max 10 args * (4 chars + '-') + null terminator
+    char buffer[50] = "";  //space def
     
     // process command line dats
     // start from i=1 to skip the program name
